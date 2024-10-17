@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/etewiah/awesome-notebooklm/actions/workflows/lint.yaml/badge.svg)](https://github.com/etewiah/awesome-notebooklm/actions/workflows/lint.yaml)
+# Awesome NotebookLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/etewiah/awesome-notebooklm/actions/workflows/lint.yaml/badge.svg)](https://github.com/etewiah/awesome-notebooklm/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -23,7 +23,7 @@ A curated list of tools related to notebooklm as well as examples of great podca
 ## Contents
 
 - [Podcast creation alternatives 1](#podcast-creation-alternatives)
-- [Follow](#follow)
+- [Community](#community)
 
 <!-- CONTENT -->
 
@@ -37,11 +37,14 @@ A curated list of tools related to notebooklm as well as examples of great podca
 
 <!-- END CONTENT -->
 
-## Follow
+## Community
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+- [Reddit](https://www.reddit.com/r/notebooklm/)
+- [Discord](https://discord.com/invite/Az2N7BwV7r?sjid=15620215024250848195-NC )
+- [Twitter / X](https://x.com/notebooklm_pods)
+
 
 ## Contributing
 
