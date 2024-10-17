@@ -16,12 +16,6 @@ A curated list of tools related to notebooklm as well as examples of great podca
   <img src="" />
 </a> -->
 
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
 </div>
 
 <!-- TOC -->
@@ -36,6 +30,10 @@ example.
 ## Podcast creation alternatives
 
 - [Podcastfy](https://github.com/souzatharsis/podcastfy) - Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI.
+- [Open Notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
+- [Zenmic](https://zenmic.com) - AI Podcast Generator
+
+
 
 <!-- END CONTENT -->
 
