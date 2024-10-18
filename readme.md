@@ -22,7 +22,8 @@ A curated list of tools related to notebooklm as well as examples of great podca
 
 ## Contents
 
-- [Podcast creation alternatives 1](#podcast-creation-alternatives)
+- [Podcast creation alternatives](#podcast-creation-alternatives)
+- [Example content](#example-content)
 - [Community](#community)
 
 <!-- CONTENT -->
@@ -31,11 +32,15 @@ A curated list of tools related to notebooklm as well as examples of great podca
 
 - [Podcastfy](https://github.com/souzatharsis/podcastfy) - Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI.
 - [Open Notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
-- [Zenmic](https://zenmic.com) - AI Podcast Generator
-
-
+- [Zenmic](https://zenmic.com) - AI Podcast Generator.
+- [Jellypod AI](https://jellypod.ai/) - Create on-brand, AI podcasts in minutes.
 
 <!-- END CONTENT -->
+
+## Example content
+
+- [Gipety hacker news casts](https://news.gipety.com/) - Podcasts of selected hacker news threads.
+- [Adding lipsync-ed talking heads to podcast audio](https://andresvarela.com/2024/09/how-i-used-notebooklm-for-an-elevator-pitch/) - Overview of the podcast technology with free/freemium tools to go further and generate avatars.
 
 ## Community
 
